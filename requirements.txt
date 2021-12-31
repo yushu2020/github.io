@@ -1,5 +1,5 @@
 altair
-asgiref==3.2.7
+asgiref
 astor==0.8.1
 attrs==19.3.0
 backcall==0.1.0
