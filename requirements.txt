@@ -52,7 +52,7 @@ nbformat
 numpy
 opencv-python==3.4.3.18
 packaging==20.3
-pandas==1.0.3
+pandas
 pandocfilters==1.4.2
 parso==0.6.2
 pathtools==0.1.2
