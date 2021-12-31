@@ -42,7 +42,7 @@ jsonschema==3.2.0
 jupyter-client
 jupyter-core==4.6.3
 jupyterlab
-jupyterlab-server
+
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
