@@ -39,7 +39,7 @@ Jinja2==2.11.1
 jmespath==0.9.5
 json5==0.9.4
 jsonschema==3.2.0
-jupyter-client==6.1.2
+jupyter-client
 jupyter-core==4.6.3
 jupyterlab==2.0.1
 jupyterlab-server==1.0.7
