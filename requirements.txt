@@ -47,7 +47,7 @@ jupyterlab
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.6.1
 nbformat
 numpy
