@@ -8,7 +8,7 @@ base58
 bleach==3.1.4
 blinker==1.4
 cachetools
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.1
 colorama==0.4.3
